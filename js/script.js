@@ -6,5 +6,5 @@ $(document).ready(function() {
 	});
 
 	//methods
-	anchors:['home', 'achievement']
+	anchors:['home', 'achievement', 'score', 'comments']
 });
