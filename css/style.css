@@ -4,3 +4,7 @@
 .fp-arrow.fp-next{
     border-color: transparent transparent transparent #141414;
 }
+.slide > div{
+    padding-left: 5%;
+    padding-right: 5%;
+}
